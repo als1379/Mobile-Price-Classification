@@ -1,6 +1,9 @@
 # Mobile-Price-Classification
 Mobile Price Classification with classic machine learning methods
 
+## dataet:
+https://www.kaggle.com/iabhishekofficial/mobile-price-classification
+
 ## accuracy:
 
 Logistic Regresssion: 95.5%
